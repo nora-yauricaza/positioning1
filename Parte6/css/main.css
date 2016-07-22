@@ -1,0 +1,29 @@
+body{
+	margin:0px;
+	padding: 0px;
+}
+div{
+	width: 200px;
+	height: 200px;
+}
+.primero{	
+	background-color: #ee3e64;
+	position: static;
+}
+.segundo{	
+	background-color: #44accf;	
+	position: absolute;
+	top: 200px;
+	left: 200px;
+		
+}
+.tercero{	
+	background-color: #b7d84b;
+	position: static;
+}
+.cuarto{
+	
+	background-color: #FCF11B;
+	position: static;
+
+}

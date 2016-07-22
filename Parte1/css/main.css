@@ -1,0 +1,20 @@
+body{
+	margin:0px;
+	padding: 0px;
+}
+div{
+	width: 200px;
+	height: 200px;
+}
+.primero{
+	background-color: #ee3e64;
+	position: static;
+}
+.segundo{
+	background-color: #44accf;	
+	position: static;
+}
+.tercero{
+	background-color: #b7d84b;
+	position: static;
+}
